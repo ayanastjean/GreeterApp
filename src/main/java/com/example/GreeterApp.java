@@ -7,7 +7,7 @@ public class GreeterApp {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
-        System.out.println("What's up', " + name + "! Welcome to your App!");
+        System.out.println("What the freak is up', " + name + "! Welcome to your App!");
         scanner.close();
     }
 }
